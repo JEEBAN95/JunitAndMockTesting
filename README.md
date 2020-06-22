@@ -1,3 +1,3 @@
 # JunitAndMockTesting
+# Log4j conifiguration
 
-branch-02

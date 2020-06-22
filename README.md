@@ -3,4 +3,5 @@
 
 branch-02
 
-This appliclation contains logging configuration
+This appliclation contains logging configuration.
+Check the properties file for details information.
